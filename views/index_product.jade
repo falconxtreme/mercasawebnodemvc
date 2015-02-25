@@ -1,0 +1,101 @@
+extends layout
+
+block content
+    script(type="text/javascript")
+        $('document').ready(function(){	
+            // Handler for .ready() called.
+            $('#paging_container1').pajinate();
+        });
+        function listarProdsPorPagina(prodsTotales,numPagina,filasPorPagina){
+            alert("hoolla");
+        }
+    
+    h1= title
+    p Welcome to #{title}
+
+    -var productosConsultados= productos.length;
+    -var numeroPagina=2;
+    -var productosPorFila=3;
+    -var contadorProducto=0;
+    label Productos consultados: #{productosConsultados}
+
+    if(productos.length>0)
+        div.containerRejilla
+            div#paging_container1.container_paj
+                div.page_navigation_paj
+                ul.content_paj
+                    while contadorProducto<productosConsultados
+                        if(productosPorFila=3)
+                            li                                
+                                div.row
+                                    div.col-xs-12.col-sm-6.col-md-4
+                                        div.panel.panel-primary
+                                            div.panel-heading
+                                                if(productos[contadorProducto].id<130)
+                                                    img(src="img/img (#{productos[contadorProducto].id}).jpg", alt="image")
+                                                    p #{productos[contadorProducto].tipoProducto}
+                                                    p #{productos[contadorProducto].nombreProducto}
+                                                    p #{productos[contadorProducto].presentacionProducto}
+                                                    p #{productos[contadorProducto].preciomercasaProducto}
+                                                else
+                                                    img(src="img/img (1).jpg", alt="image")
+                                                    p #{productos[contadorProducto].tipoProducto}
+                                                    p #{productos[contadorProducto].nombreProducto}
+                                                    p #{productos[contadorProducto].presentacionProducto}
+                                                    p #{productos[contadorProducto].preciomercasaProducto}
+                                    -contadorProducto=contadorProducto+1
+                                    if(contadorProducto<productosConsultados)
+                                        div.col-xs-12.col-sm-6.col-md-4
+                                            div.panel.panel-primary
+                                                div.panel-heading
+                                                    if(productos[contadorProducto].id<130)
+                                                        img(src="img/img (#{productos[contadorProducto].id}).jpg", alt="image")
+                                                        p #{productos[contadorProducto].tipoProducto}
+                                                        p #{productos[contadorProducto].nombreProducto}
+                                                        p #{productos[contadorProducto].presentacionProducto}
+                                                        p #{productos[contadorProducto].preciomercasaProducto}
+                                                    else
+                                                        img(src="img/img (1).jpg", alt="image")
+                                                        p #{productos[contadorProducto].tipoProducto}
+                                                        p #{productos[contadorProducto].nombreProducto}
+                                                        p #{productos[contadorProducto].presentacionProducto}
+                                                        p #{productos[contadorProducto].preciomercasaProducto}
+                                    -contadorProducto=contadorProducto+1
+                                    if(contadorProducto<productosConsultados)
+                                        div.col-xs-12.col-sm-6.col-md-4
+                                            div.panel.panel-primary
+                                                div.panel-heading
+                                                    if(productos[contadorProducto].id<130)
+                                                        img(src="img/img (#{productos[contadorProducto].id}).jpg", alt="image")
+                                                        p #{productos[contadorProducto].tipoProducto}
+                                                        p #{productos[contadorProducto].nombreProducto}
+                                                        p #{productos[contadorProducto].presentacionProducto}
+                                                        p #{productos[contadorProducto].preciomercasaProducto}
+                                                    else
+                                                        img(src="img/img (1).jpg", alt="image")
+                                                        p #{productos[contadorProducto].tipoProducto}
+                                                        p #{productos[contadorProducto].nombreProducto}
+                                                        p #{productos[contadorProducto].presentacionProducto}
+                                                        p #{productos[contadorProducto].preciomercasaProducto}
+                                    -contadorProducto=contadorProducto+1
+                        else    
+                            li
+                                div.row
+                                    div.col-xs-12.col-sm-6.col-md-4
+                                        div.panel.panel-primary
+                                            div.panel-heading
+                                                if(productos[contadorProducto].id<130)
+                                                    img(src="img/img (#{productos[contadorProducto].id}).jpg", alt="image")
+                                                    p #{productos[contadorProducto].tipoProducto}
+                                                    p #{productos[contadorProducto].nombreProducto}
+                                                    p #{productos[contadorProducto].presentacionProducto}
+                                                    p #{productos[contadorProducto].preciomercasaProducto}
+                                                else
+                                                    img(src="img/img (1).jpg", alt="image")
+                                                    p #{productos[contadorProducto].tipoProducto}
+                                                    p #{productos[contadorProducto].nombreProducto}
+                                                    p #{productos[contadorProducto].presentacionProducto}
+                                                    p #{productos[contadorProducto].preciomercasaProducto}
+                                    -contadorProducto=contadorProducto+1
+    else
+        label NO HAY PRODUCTOS QUE MOSTRAR

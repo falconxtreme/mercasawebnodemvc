@@ -1,0 +1,75 @@
+/* Mercasa footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  padding-top: 60px;
+  margin-bottom: 60px;
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #222;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or mercasa footer method. */
+
+body > .container {
+  padding: 60px 15px 0;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.float-left {
+  float: left;
+}
+.float-right {
+  padding-top: 20px;
+  float: right;
+}
+
+ul#social li {
+  display: inline;
+  list-style: none;
+}
+ul#social li a {
+  color: #999;
+  text-decoration: none;
+}
+a.facebook,
+a.twitter {
+  display: block;
+  float: left;
+  height: 24px;
+  padding-left: 17px;
+  text-indent: -9999px;
+  width: 16px;
+}
+a.facebook {
+  background: url("../images/facebook.png") no-repeat;
+}
+a.twitter {
+  background: url("../images/twitter.png") no-repeat;
+}
+.containerRejilla {
+    display: inline-block;
+}

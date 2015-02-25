@@ -1,0 +1,101 @@
+extends layout
+
+block content
+    script(type="text/javascript")
+        $('document').ready(function(){	
+            // Handler for .ready() called.
+            $('#paging_container1').pajinate();
+        });
+        function listarProdsPorPagina(prodsTotales,numPagina,filasPorPagina){
+            alert("hoolla");
+        }
+    
+    h1= title
+    p Welcome to #{title}
+
+    -var productosConsultados= productos.length;
+    -var numeroPagina=2;
+    -var productosPorFila=3;
+    -var contadorProducto=0;
+    label Productos consultados: #{productosConsultados}
+
+    if(productos.length>0)
+        div#paging_container1.container_paj
+            div.page_navigation_paj
+                ul.content_paj
+                    each producto in productos
+                        if(productosPorFila=3)
+                            li
+                                div.row
+                                    div.col-xs-12..col-sm-6.col-md-4
+                                        if(producto.id<130)
+                                            img(src="img/img (#{producto.id}).jpg", alt="image")
+                                        else
+                                            img(src="img/img (1).jpg", alt="image")
+                        else    
+                            div.row
+                        -productosPorFila=productosPorFila-1
+
+
+                            td #{producto.id}
+                            td #{producto.tipoProducto}
+                            td #{producto.nombreProducto}
+                            td #{producto.presentacionProducto}
+                            td #{producto.preciomercasaProducto}
+    else
+        label NO HAY PRODUCTOS QUE MOSTRAR
+
+    div#paging_container1.container_paj
+        div.page_navigation_paj
+
+        ul.content_paj
+            li
+                img(src="img/img (#{numeroPagina}).jpg", alt="image")
+            li
+                img(src="img/img (2).jpg", alt="image")
+            li
+                img(src="img/img (3).jpg", alt="image")
+            li
+                img(src="img/img (4).jpg", alt="image")
+            li
+                img(src="img/img (5).jpg", alt="image")
+            li
+                img(src="img/img (6).jpg", alt="image")
+            li
+                img(src="img/img (7).jpg", alt="image")
+            li
+                img(src="img/img (8).jpg", alt="image")
+            li
+                img(src="img/img (9).jpg", alt="image")
+            li
+                img(src="img/img (10).jpg", alt="image")
+            li
+                img(src="img/img (11).jpg", alt="image")
+            li
+                img(src="img/img (12).jpg", alt="image")
+            li
+                img(src="img/img (13).jpg", alt="image")
+            li
+                img(src="img/img (14).jpg", alt="image")
+
+    div.table-responsive
+        table.table.table-hover
+            thead
+                tr
+                    th #
+                    th Tipo de Producto
+                    th Producto
+                    th Unidad
+                    th Precio x unidad
+            tbody
+                if(productos.length>0)                   
+                    each producto in productos
+                        tr
+                            td #{producto.id}
+                            td #{producto.tipoProducto}
+                            td #{producto.nombreProducto}
+                            td #{producto.presentacionProducto}
+                            td #{producto.preciomercasaProducto}
+                        -contadorProducto=contadorProducto+1
+                else
+                    label NO HAY PRODUCTOS QUE MOSTRAR

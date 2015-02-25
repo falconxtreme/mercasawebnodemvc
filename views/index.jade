@@ -1,0 +1,28 @@
+extends layout
+
+block content
+    section(class="featured")
+      div(class="content-wrapper")
+          hgroup(class="title")
+              h1=title 
+              h2 Mercasa directo a tu casa.
+
+    section(class="main-content")
+      h3 Comprar aquí... No olvidar ordenar su pedido...
+      ol(class="round")
+          li(class="one")
+              h5 Busca tus productos
+              p 
+                | Al buscar tus productos... 
+                a(href="/catalog", target="_blank") Busca...
+          li(class="two")
+              h5 Agrega a tu carrito de compras
+              p 
+                | Al agregar tus productos...  
+                a(href="/catalog", target="_blank") Agregar...
+          li(class="three")
+              h5 Compra tus productos
+              p 
+                | Al comprar tus productos...  
+                a(href="/catalog", target="_blank") Comprar...
+ 
