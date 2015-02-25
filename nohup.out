@@ -1,0 +1,269 @@
+info: socket.io started
+Express server listening on port 8080
+debug: client authorized
+info: handshake authorized n3PHq5az41zj95vetXiJ
+debug: setting request GET /socket.io/1/xhr-polling/n3PHq5az41zj95vetXiJ?t=1424850522813
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client n3PHq5az41zj95vetXiJ
+debug: xhr-polling received data packet 5:::{"name":"setname","args":["WebMatrix User"]}
+debug: broadcasting packet
+debug: setting request GET /socket.io/1/xhr-polling/n3PHq5az41zj95vetXiJ?t=1424850523066
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"messages","args":[{"buffer":[]}]}
+debug: set close timeout for client n3PHq5az41zj95vetXiJ
+debug: discarding transport
+debug: cleared close timeout for client n3PHq5az41zj95vetXiJ
+debug: setting request GET /socket.io/1/xhr-polling/n3PHq5az41zj95vetXiJ?t=1424850523540
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client n3PHq5az41zj95vetXiJ
+[90mGET / [36m304 [90m55ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m5ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m3ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m29ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m4ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m2ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /chat [36m304 [90m13ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m2ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/chat.css [32m200 [90m15ms - 281[0m
+debug: served static content /socket.io.js
+[90mGET /javascripts/chat.js [36m304 [90m2ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m2ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m2ms[0m
+debug: client authorized
+info: handshake authorized d-uiMZzaqLnqK75htXiK
+debug: setting request GET /socket.io/1/xhr-polling/d-uiMZzaqLnqK75htXiK?t=1424850564475
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client d-uiMZzaqLnqK75htXiK
+debug: xhr-polling received data packet 5:::{"name":"setname","args":["WebMatrix User"]}
+debug: broadcasting packet
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"announcement","args":[{"announcement":"WebMatrix User connected"}]}
+debug: set close timeout for client n3PHq5az41zj95vetXiJ
+debug: setting request GET /socket.io/1/xhr-polling/d-uiMZzaqLnqK75htXiK?t=1424850564716
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"messages","args":[{"buffer":[]}]}
+debug: set close timeout for client d-uiMZzaqLnqK75htXiK
+debug: discarding transport
+debug: cleared close timeout for client d-uiMZzaqLnqK75htXiK
+debug: setting request GET /socket.io/1/xhr-polling/d-uiMZzaqLnqK75htXiK?t=1424850564963
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client d-uiMZzaqLnqK75htXiK
+[90mGET /about [36m304 [90m13ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m2ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /catalog [32m200 [90m61ms - 28.87kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(1).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(2).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(3).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(4).jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /img/img%20(5).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(6).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(7).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(8).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(9).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(10).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(11).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(12).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(13).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(14).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(15).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(16).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(17).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(18).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(19).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(20).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(21).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(22).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(23).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(24).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(25).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(26).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(27).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(28).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(29).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(30).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(31).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(32).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(33).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(34).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(35).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(36).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(37).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(38).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(39).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(40).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(41).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(42).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(43).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(44).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(45).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(46).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(47).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(48).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(49).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(50).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(51).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(52).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(53).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(54).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(55).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(56).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(57).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(58).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(59).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(60).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(61).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(62).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(63).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(64).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(65).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(66).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(67).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(68).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(69).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(70).jpg [36m304 [90m5ms[0m
+[90mGET /img/img%20(71).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(72).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(73).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(74).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(75).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(76).jpg [36m304 [90m3ms[0m
+[90mGET /img/img%20(77).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(78).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(79).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(80).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(81).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(82).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(83).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(84).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(85).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(86).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(87).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(88).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(89).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(90).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(91).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(92).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(93).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(94).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(95).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(96).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(97).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(98).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(99).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(100).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(101).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(102).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(103).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(104).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(105).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(106).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(107).jpg [36m304 [90m5ms[0m
+[90mGET /img/img%20(108).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(109).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(110).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(111).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(112).jpg [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m15ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m2ms[0m
+[90mGET /images/facebook.png [36m304 [90m2ms[0m
+[90mGET /images/twitter.png [36m304 [90m2ms[0m
+starting step - displayRegister
+...finished step
+[90mGET /register [32m200 [90m260ms - 3.65kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+starting step - displayLogin
+...finished step
+[90mGET /login [32m200 [90m255ms - 4.1kb[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m0ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m0ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+debug: fired close timeout for client n3PHq5az41zj95vetXiJ
+info: transport end (close timeout)
+debug: broadcasting packet
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"announcement","args":[{"announcement":"WebMatrix User disconnected"}]}
+debug: set close timeout for client d-uiMZzaqLnqK75htXiK
+debug: discarding transport
+debug: fired close timeout for client d-uiMZzaqLnqK75htXiK
+info: transport end (close timeout)
+debug: broadcasting packet
+debug: discarding transport

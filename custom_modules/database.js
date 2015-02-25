@@ -8,14 +8,14 @@ var queriesInsertarTablas = require('./insertarTablas');
 var dbConfig = {
    host:'localhost',
    user:'root',
-   password:''
+   password:'root'
 };
 
 // run query to db
 var dbConfigWithBD = {
    host:'localhost',
    user:'root',
-   password:'',
+   password:'root',
    database: 'MercasaTest'
 };
 
