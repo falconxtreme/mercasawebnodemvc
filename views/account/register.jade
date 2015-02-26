@@ -1,41 +1,42 @@
 extends ../layout
 
 block content
-    section(class="main-content")
-        hgroup(class="title")
-            h1 Register.
-            h2 Create a new account.
-    
+    div.container
+        h1 Register.
+        h2 Create a new account.    
         - if ('undefined' !== typeof errors && errors.length)
           ul#errors
             - each error in errors
               li.error= error
 
-        form(method="post")
-            fieldset
-                legend Registration Form
-                ol
-                    li(class="email")
-                        label(for=everyauth.password.loginFormFieldName) Email address
-                        input(type="text", name=everyauth.password.loginFormFieldName, value=userParams[everyauth.password.loginFormFieldName])
-                    li(class="password")
-                        label(for="password") Password
-                        input(type="password", name=everyauth.password.passwordFormFieldName)
-                    li(class="confirm-password")
-                        label(for="confirmPassword") Confirm password
-                        input(type="password", name="confirmPassword")
-                    li(class="recaptcha")
-                        div(class="message-info")
-                            p 
-                                | To enable CAPTCHA verification, register for reCAPTCHA keys at 
-                                a(href="http://recaptcha.net", target="_blank", title="register for a captcha") reCAPTCHA.net
-                                |. Rename settings.example.json to settings.json (if you have not done so already), and replace 'publicKey'
-                                | with your public key, and 'privateKey' with your private key.  Finally, uncomment '!= recaptcha_form' under this paragraph.
-                     //!= recaptcha_form
-
-                input(type="submit", value="Register")
-                p
-                    | Did you know you can use other services to log in to this site? 
-                    | Click
-                    a(href="/login") here
-                    | to log in using one of the supported services.
+        form(method="post", class='form-horizontal')
+            legend Registration Form
+            div.form-group
+                label.col-lg-2.control-label(for='everyauth.password.loginFormFieldName') Email address
+                div.col-lg-10
+                    input.form-control(type='email', id='everyauth.password.loginFormFieldName', name='everyauth.password.loginFormFieldName', placeholder='Email', value=userParams[everyauth.password.loginFormFieldName], required)
+            div.form-group
+                label.col-lg-2.control-label(for='everyauth.password.passwordFormFieldName') Password
+                div.col-lg-10
+                    input.form-control(type='password', id='everyauth.password.passwordFormFieldName', name='everyauth.password.passwordFormFieldName', placeholder='Password', required)
+            div.form-group
+                label.col-lg-2.control-label(for='confirmPassword') Confirm password
+                div.col-lg-10
+                    input.form-control(type='password', id='confirmPassword', name='confirmPassword', placeholder='Confirm Password', required)
+            div.form-group
+                div(class="message-info")
+                    p 
+                        | To enable CAPTCHA verification, register for reCAPTCHA keys at 
+                        a(href="http://recaptcha.net", target="_blank", title="register for a captcha") reCAPTCHA.net
+                        |. Rename settings.example.json to settings.json (if you have not done so already), and replace 'publicKey'
+                        | with your public key, and 'privateKey' with your private key.  Finally, uncomment '!= recaptcha_form' under this paragraph.    
+                    //!= recaptcha_form
+            div.form-group
+                div.col-lg-offset-2.col-lg-10
+                    button(type='submit', class='btn btn-primary') Register
+                    p
+                        | Did you know you can use other services to log in to this site? 
+                        | Click
+                        a(href="/login") here
+                        | to log in using one of the supported services.
+                

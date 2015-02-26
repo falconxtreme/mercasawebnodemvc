@@ -1,48 +1,62 @@
 extends layout
 
 block content
-  h1 Nuevo Producto
-  form(method='post', action='/catalogcreate')
-    fieldset
-        legend Añadir un producto
-        div.clearfix
-            label Código interno
-            div.input
-                input(name='codigointerno', class='xlarge')
-            label Código de barra
-            div.input
-                input(name='codigobarra', class='xlarge')
-            label Tipo
-            div.input
-                input(name='tipo', class='xlarge')
-            label Nombre
-            div.input
-                input(name='nombre', class='xlarge')
-            label Marca
-            div.input
-                input(name='marca', class='xlarge')
-            label Presentacion
-            div.input
-                input(name='presentacion', class='xlarge')
-            label Precio por menor
-            div.input
-                input(name='preciopormenor', class='xlarge')
-            label Precio por mayor
-            div.input
-                input(name='preciopormayor', class='xlarge')
-            label Precio plaza vea
-            div.input
-                input(name='precioplazavea', class='xlarge')
-            label Precio wong
-            div.input
-                input(name='preciowong', class='xlarge')
-            label Precio mercasa
-            div.input
-                input(name='preciomercasa', class='xlarge')
-            label Margen mercasa
-            div.input
-                input(name='margenmercasa', class='xlarge')
+  
+    div.container
+        h1 Nuevo Producto
+        form(method='post', action='/catalogcreate', class='form-horizontal')
+            legend Añadir un producto
+            div.form-group
+                label.col-lg-2.control-label(for='codigointerno') Código interno
+                div.col-lg-10
+                    input.form-control(type='text', id='codigointerno', name='codigointerno', placeholder='Código Interno', required)
+            div.form-group
+                label.col-lg-2.control-label(for='codigobarra') Código de barra
+                div.col-lg-10
+                    input.form-control(type='text', id='codigobarra', name='codigobarra', placeholder='Código de barra', required)
+            div.form-group
+                label.col-lg-2.control-label(for='tipo') Tipo
+                div.col-lg-10
+                    input.form-control(type='text', id='tipo', name='tipo', placeholder='Tipo', required)
+            div.form-group
+                label.col-lg-2.control-label(for='nombre') Nombre
+                div.col-lg-10
+                    input.form-control(type='text', id='nombre', name='nombre', placeholder='Nombre', required)
+            div.form-group
+                label.col-lg-2.control-label(for='marca') Marca
+                div.col-lg-10
+                    input.form-control(type='text', id='marca', name='marca', placeholder='Marca', required)
+            div.form-group
+                label.col-lg-2.control-label(for='presentacion') Presentacion
+                div.col-lg-10
+                    input.form-control(type='text', id='presentacion', name='presentacion', placeholder='Presentacion', required)
+            div.form-group
+                label.col-lg-2.control-label(for='preciopormenor') Precio por menor
+                div.col-lg-10
+                    input.form-control(type='text', id='preciopormenor', name='preciopormenor', placeholder='Precio por menor', required)
+            div.form-group
+                label.col-lg-2.control-label(for='preciopormayor') Precio por mayor
+                div.col-lg-10
+                    input.form-control(type='text', id='preciopormayor', name='preciopormayor', placeholder='Precio por mayor', required)
+            div.form-group
+                label.col-lg-2.control-label(for='precioplazavea') Precio plaza vea
+                div.col-lg-10
+                    input.form-control(type='text', id='precioplazavea', name='precioplazavea', placeholder='Precio plaza vea', required)
+            div.form-group
+                label.col-lg-2.control-label(for='preciowong') Precio wong
+                div.col-lg-10
+                    input.form-control(type='text', id='preciowong', name='preciowong', placeholder='Precio wong', required)
+            div.form-group
+                label.col-lg-2.control-label(for='preciomercasa') Precio mercasa
+                div.col-lg-10
+                    input.form-control(type='text', id='preciomercasa', name='preciomercasa', placeholder='Precio mercasa', required)
+            div.form-group
+                label.col-lg-2.control-label(for='margenmercasa') Margen mercasa
+                div.col-lg-10
+                    input.form-control(type='text', id='margenmercasa', name='margenmercasa', placeholder='Margen mercasa', required)
 
-        div.actions
-            input(type='submit', value='Guardar', class='btn primary')
-            button(type='reset', class='btn') Cancelar
+            div.form-group
+                div.col-lg-offset-2.col-lg-10
+                    button(type='submit', class='btn btn-primary') Guardar
+                    &nbsp;
+                    button(type='reset', class='btn btn-default') Cancelar

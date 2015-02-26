@@ -1,21 +1,21 @@
 extends layout
 
 block content
-  h1 Subir Archivo
-  form(method='post', action='/productfile', enctype='multipart/form-data')
-    fieldset
-        legend Añadir un archivo
-        div.clearfix
-            label Archivo
-            div.input
-                input(type='file', name='userfile', class='xlarge')            
+    div.container
+        h1 Subir Archivo
+        form(method='post', action='/productfile', enctype='multipart/form-data', role='form')
+        fieldset
+            legend Añadir un archivo
+            div.form-group
+                label(for='userfile') Adjuntar Archivo
+                input(type='file', id='userfile', name='userfile')
+                p.help-block Selecciona un archivo que contenga los productos que desea subir a la base de datos         
 
-        div.actions
-            input(type='submit', value='Subir Información a BD', class='btn primary')
-            button(type='reset', class='btn') Cancelar
+            div.actions
+                input(type='submit', value='Subir Información a BD', class='btn btn-primary')
 
-        if(rptasubida!=null && rptasubida!=undefined)
-            if(rptasubida=='1')
-                label Se procesó correctamente el archivo
-            if(rptasubida=='-1')
-                label No se procesó correctamente el archivo
+            if(rptasubida!=null && rptasubida!=undefined)
+                if(rptasubida=='1')
+                    label.label.label-success Se procesó correctamente el archivo
+                if(rptasubida=='-1')
+                    label.label.label-danger No se procesó correctamente el archivo
