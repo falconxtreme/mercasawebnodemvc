@@ -267,3 +267,1338 @@ debug: fired close timeout for client d-uiMZzaqLnqK75htXiK
 info: transport end (close timeout)
 debug: broadcasting packet
 debug: discarding transport
+[90mGET / [32m200 [90m14ms - 3.15kb[0m
+[90mGET /icon/mercasa_logo.ico [32m200 [90m4ms - 1.12kb[0m
+[90mGET /cgi-bin/index.cgi [33m404 [90m4ms[0m
+[90mGET /cgi-bin/authLogin.cgi [33m404 [90m3ms[0m
+[90mGET /tmUnblock.cgi [33m404 [90m2ms[0m
+[90mGET / [32m200 [90m22ms - 3.15kb[0m
+[90mGET /stylesheets/mercasa_nav.css [32m200 [90m1ms - 1.19kb[0m
+[90mGET /css/bootstrap.min.css [32m200 [90m224ms - 114.4kb[0m
+[90mGET /javascripts/modernizr.js [32m200 [90m5ms - 48.97kb[0m
+[90mGET /js/jquery.pajinate.js [32m200 [90m4ms - 10.3kb[0m
+[90mGET /stylesheets/styles_pajinate.css [32m200 [90m3ms - 1.7kb[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [32m200 [90m451ms - 91.44kb[0m
+[90mGET /images/mercasa_logo_50.jpg [32m200 [90m2ms - 2.73kb[0m
+[90mGET /js/bootstrap.min.js [32m200 [90m2ms - 34.62kb[0m
+[90mGET /images/facebook.png [32m200 [90m1ms - 529[0m
+[90mGET /images/twitter.png [32m200 [90m2ms - 488[0m
+[90mGET /icon/mercasa_logo.ico [32m200 [90m2ms - 1.12kb[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m1ms - 22.88kb[0m
+[90mGET /chat [32m200 [90m16ms - 2.78kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m2ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /stylesheets/chat.css [32m200 [90m4ms - 281[0m
+debug: served static content /socket.io.js
+[90mGET /js/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/chat.js [32m200 [90m1ms - 1.26kb[0m
+debug: client authorized
+info: handshake authorized jllGB_YxK5pPbTkbtXiL
+[90mGET /images/twitter.png [36m304 [90m2ms[0m
+[90mGET /images/facebook.png [36m304 [90m1ms[0m
+debug: setting request GET /socket.io/1/xhr-polling/jllGB_YxK5pPbTkbtXiL?t=1424868794811
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client jllGB_YxK5pPbTkbtXiL
+debug: xhr-polling received data packet 5:::{"name":"setname","args":["WebMatrix User"]}
+debug: broadcasting packet
+debug: setting request GET /socket.io/1/xhr-polling/jllGB_YxK5pPbTkbtXiL?t=1424868795150
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"messages","args":[{"buffer":[]}]}
+debug: set close timeout for client jllGB_YxK5pPbTkbtXiL
+debug: discarding transport
+debug: cleared close timeout for client jllGB_YxK5pPbTkbtXiL
+debug: setting request GET /socket.io/1/xhr-polling/jllGB_YxK5pPbTkbtXiL?t=1424868795427
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client jllGB_YxK5pPbTkbtXiL
+[90mGET /fonts/glyphicons-halflings-regular.woff [36m304 [90m1ms[0m
+[90mGET /about [32m200 [90m10ms - 3.7kb[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m2ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m0ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m2ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m0ms[0m
+[90mGET /images/facebook.png [36m304 [90m2ms[0m
+[90mGET /images/twitter.png [36m304 [90m0ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff [36m304 [90m1ms[0m
+[90mGET /about [36m304 [90m10ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m0ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m0ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/facebook.png [36m304 [90m1ms[0m
+[90mGET /images/twitter.png [36m304 [90m1ms[0m
+starting step - displayRegister
+...finished step
+[90mGET /register [32m200 [90m212ms - 3.65kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m0ms[0m
+[90mGET /images/facebook.png [36m304 [90m2ms[0m
+[90mGET /images/twitter.png [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m10ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/facebook.png [36m304 [90m1ms[0m
+[90mGET /images/twitter.png [36m304 [90m1ms[0m
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client jllGB_YxK5pPbTkbtXiL
+debug: xhr-polling closed due to exceeded duration
+debug: fired close timeout for client jllGB_YxK5pPbTkbtXiL
+info: transport end (close timeout)
+debug: broadcasting packet
+debug: discarding transport
+[90mGET / [32m200 [90m17ms - 3.15kb[0m
+[90mGET /css/bootstrap.min.css [32m200 [90m4ms - 114.4kb[0m
+[90mGET /stylesheets/mercasa_nav.css [32m200 [90m2ms - 1.19kb[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [32m200 [90m2ms - 91.44kb[0m
+[90mGET /javascripts/modernizr.js [32m200 [90m2ms - 48.97kb[0m
+[90mGET /stylesheets/styles_pajinate.css [32m200 [90m1ms - 1.7kb[0m
+[90mGET /js/jquery.pajinate.js [32m200 [90m1ms - 10.3kb[0m
+[90mGET /js/bootstrap.min.js [32m200 [90m2ms - 34.62kb[0m
+[90mGET /images/mercasa_logo_50.jpg [32m200 [90m2ms - 2.73kb[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [32m200 [90m1ms - 17.61kb[0m
+[90mGET /images/facebook.png [32m200 [90m1ms - 529[0m
+[90mGET /images/twitter.png [32m200 [90m3ms - 488[0m
+[90mGET /icon/mercasa_logo.ico [32m200 [90m1ms - 1.12kb[0m
+[90mGET /catalog [32m200 [90m42ms - 28.87kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m0ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m3ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(1).jpg [32m200 [90m1ms - 4.32kb[0m
+[90mGET /img/img%20(2).jpg [32m200 [90m1ms - 4.23kb[0m
+[90mGET /img/img%20(3).jpg [32m200 [90m1ms - 5.2kb[0m
+[90mGET /img/img%20(4).jpg [32m200 [90m1ms - 6.67kb[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m0ms[0m
+[90mGET /img/img%20(9).jpg [32m200 [90m1ms - 4.82kb[0m
+[90mGET /img/img%20(6).jpg [32m200 [90m2ms - 10.63kb[0m
+[90mGET /img/img%20(10).jpg [32m200 [90m1ms - 5.66kb[0m
+[90mGET /img/img%20(11).jpg [32m200 [90m2ms - 14.83kb[0m
+[90mGET /img/img%20(5).jpg [32m200 [90m2ms - 34.84kb[0m
+[90mGET /img/img%20(12).jpg [32m200 [90m1ms - 3.69kb[0m
+[90mGET /img/img%20(13).jpg [32m200 [90m1ms - 6.23kb[0m
+[90mGET /img/img%20(14).jpg [32m200 [90m2ms - 20.49kb[0m
+[90mGET /img/img%20(15).jpg [32m200 [90m3ms - 6.68kb[0m
+[90mGET /img/img%20(16).jpg [32m200 [90m1ms - 35.48kb[0m
+[90mGET /img/img%20(17).jpg [32m200 [90m1ms - 3.27kb[0m
+[90mGET /img/img%20(18).jpg [32m200 [90m3ms - 5.25kb[0m
+[90mGET /img/img%20(19).jpg [32m200 [90m1ms - 5.84kb[0m
+[90mGET /img/img%20(20).jpg [32m200 [90m2ms - 4.79kb[0m
+[90mGET /img/img%20(21).jpg [32m200 [90m2ms - 2.93kb[0m
+[90mGET /img/img%20(22).jpg [32m200 [90m1ms - 10.57kb[0m
+[90mGET /img/img%20(23).jpg [32m200 [90m1ms - 7.44kb[0m
+[90mGET /img/img%20(24).jpg [32m200 [90m2ms - 5.57kb[0m
+[90mGET /img/img%20(25).jpg [32m200 [90m1ms - 4.25kb[0m
+[90mGET /img/img%20(26).jpg [32m200 [90m2ms - 25.22kb[0m
+[90mGET /img/img%20(27).jpg [32m200 [90m1ms - 1.88kb[0m
+[90mGET /img/img%20(28).jpg [32m200 [90m1ms - 4.86kb[0m
+[90mGET /img/img%20(29).jpg [32m200 [90m1ms - 35.87kb[0m
+[90mGET /img/img%20(30).jpg [32m200 [90m1ms - 10.61kb[0m
+[90mGET /img/img%20(31).jpg [32m200 [90m2ms - 4.38kb[0m
+[90mGET /img/img%20(32).jpg [32m200 [90m2ms - 35.48kb[0m
+[90mGET /img/img%20(33).jpg [32m200 [90m3ms - 8.59kb[0m
+[90mGET /img/img%20(34).jpg [32m200 [90m2ms - 9.2kb[0m
+[90mGET /img/img%20(35).jpg [32m200 [90m1ms - 7.3kb[0m
+[90mGET /img/img%20(36).jpg [32m200 [90m2ms - 17.2kb[0m
+[90mGET /img/img%20(37).jpg [32m200 [90m2ms - 3.31kb[0m
+[90mGET /img/img%20(38).jpg [32m200 [90m3ms - 12.62kb[0m
+[90mGET /img/img%20(39).jpg [32m200 [90m2ms - 3.47kb[0m
+[90mGET /img/img%20(40).jpg [32m200 [90m1ms - 7.1kb[0m
+[90mGET /img/img%20(41).jpg [32m200 [90m2ms - 3.22kb[0m
+[90mGET /img/img%20(42).jpg [32m200 [90m2ms - 5.2kb[0m
+[90mGET /img/img%20(43).jpg [32m200 [90m2ms - 4.98kb[0m
+[90mGET /img/img%20(44).jpg [32m200 [90m1ms - 2.97kb[0m
+[90mGET /img/img%20(45).jpg [32m200 [90m2ms - 5.77kb[0m
+[90mGET /img/img%20(46).jpg [32m200 [90m1ms - 2.85kb[0m
+[90mGET /img/img%20(47).jpg [32m200 [90m1ms - 2.75kb[0m
+[90mGET /img/img%20(48).jpg [32m200 [90m1ms - 6.38kb[0m
+[90mGET /img/img%20(49).jpg [32m200 [90m1ms - 5.49kb[0m
+[90mGET /img/img%20(50).jpg [32m200 [90m1ms - 5.2kb[0m
+[90mGET /img/img%20(51).jpg [32m200 [90m1ms - 8.19kb[0m
+[90mGET /img/img%20(52).jpg [32m200 [90m1ms - 30.21kb[0m
+[90mGET /img/img%20(53).jpg [32m200 [90m1ms - 19.07kb[0m
+[90mGET /img/img%20(54).jpg [32m200 [90m2ms - 34.06kb[0m
+[90mGET /img/img%20(55).jpg [32m200 [90m2ms - 5.15kb[0m
+[90mGET /img/img%20(57).jpg [32m200 [90m2ms - 9.02kb[0m
+[90mGET /img/img%20(56).jpg [32m200 [90m1ms - 5.66kb[0m
+[90mGET /img/img%20(58).jpg [32m200 [90m2ms - 6.14kb[0m
+[90mGET /img/img%20(59).jpg [32m200 [90m2ms - 17.14kb[0m
+[90mGET /img/img%20(60).jpg [32m200 [90m1ms - 7.67kb[0m
+[90mGET /img/img%20(61).jpg [32m200 [90m3ms - 3.07kb[0m
+[90mGET /img/img%20(62).jpg [32m200 [90m2ms - 5.56kb[0m
+[90mGET /img/img%20(63).jpg [32m200 [90m1ms - 5.91kb[0m
+[90mGET /img/img%20(64).jpg [32m200 [90m1ms - 7.28kb[0m
+[90mGET /img/img%20(65).jpg [32m200 [90m1ms - 6.54kb[0m
+[90mGET /img/img%20(66).jpg [32m200 [90m1ms - 3.49kb[0m
+[90mGET /img/img%20(67).jpg [32m200 [90m1ms - 15.46kb[0m
+[90mGET /img/img%20(68).jpg [32m200 [90m1ms - 8.03kb[0m
+[90mGET /img/img%20(69).jpg [32m200 [90m1ms - 22.62kb[0m
+[90mGET /img/img%20(70).jpg [32m200 [90m2ms - 5.29kb[0m
+[90mGET /img/img%20(71).jpg [32m200 [90m2ms - 9kb[0m
+[90mGET /img/img%20(72).jpg [32m200 [90m2ms - 3.79kb[0m
+[90mGET /img/img%20(73).jpg [32m200 [90m1ms - 10.69kb[0m
+[90mGET /img/img%20(74).jpg [32m200 [90m1ms - 9.66kb[0m
+[90mGET /img/img%20(75).jpg [32m200 [90m1ms - 4.28kb[0m
+[90mGET /img/img%20(76).jpg [32m200 [90m1ms - 18.92kb[0m
+[90mGET /img/img%20(77).jpg [32m200 [90m1ms - 6.17kb[0m
+[90mGET /img/img%20(78).jpg [32m200 [90m2ms - 10.15kb[0m
+[90mGET /img/img%20(79).jpg [32m200 [90m1ms - 5.89kb[0m
+[90mGET /img/img%20(80).jpg [32m200 [90m1ms - 10.27kb[0m
+[90mGET /img/img%20(81).jpg [32m200 [90m3ms - 10.38kb[0m
+[90mGET /img/img%20(82).jpg [32m200 [90m2ms - 4.86kb[0m
+[90mGET /img/img%20(83).jpg [32m200 [90m2ms - 2.74kb[0m
+[90mGET /img/img%20(84).jpg [32m200 [90m1ms - 5.45kb[0m
+[90mGET /img/img%20(85).jpg [32m200 [90m2ms - 7.9kb[0m
+[90mGET /img/img%20(86).jpg [32m200 [90m3ms - 3.34kb[0m
+[90mGET /img/img%20(87).jpg [32m200 [90m2ms - 11.45kb[0m
+[90mGET /img/img%20(88).jpg [32m200 [90m1ms - 2.99kb[0m
+[90mGET /img/img%20(89).jpg [32m200 [90m5ms - 3.04kb[0m
+[90mGET /img/img%20(90).jpg [32m200 [90m2ms - 20.33kb[0m
+[90mGET /img/img%20(91).jpg [32m200 [90m2ms - 3.09kb[0m
+[90mGET /img/img%20(92).jpg [32m200 [90m1ms - 5.46kb[0m
+[90mGET /img/img%20(93).jpg [32m200 [90m2ms - 5kb[0m
+[90mGET /img/img%20(94).jpg [32m200 [90m2ms - 3.06kb[0m
+[90mGET /img/img%20(95).jpg [32m200 [90m2ms - 3.16kb[0m
+[90mGET /img/img%20(96).jpg [32m200 [90m3ms - 4.45kb[0m
+[90mGET /img/img%20(97).jpg [32m200 [90m3ms - 9.47kb[0m
+[90mGET /img/img%20(98).jpg [32m200 [90m2ms - 7.05kb[0m
+[90mGET /img/img%20(99).jpg [32m200 [90m2ms - 4.13kb[0m
+[90mGET /img/img%20(100).jpg [32m200 [90m2ms - 5.36kb[0m
+[90mGET /img/img%20(101).jpg [32m200 [90m2ms - 3.48kb[0m
+[90mGET /img/img%20(102).jpg [32m200 [90m1ms - 4.42kb[0m
+[90mGET /img/img%20(103).jpg [32m200 [90m1ms - 2.55kb[0m
+[90mGET /img/img%20(104).jpg [32m200 [90m3ms - 5.73kb[0m
+[90mGET /img/img%20(105).jpg [32m200 [90m1ms - 3.78kb[0m
+[90mGET /img/img%20(106).jpg [32m200 [90m2ms - 8.85kb[0m
+[90mGET /img/img%20(107).jpg [32m200 [90m3ms - 3.21kb[0m
+[90mGET /img/img%20(108).jpg [32m200 [90m2ms - 15.22kb[0m
+[90mGET /img/img%20(109).jpg [32m200 [90m1ms - 15.67kb[0m
+[90mGET /img/img%20(110).jpg [32m200 [90m1ms - 2.93kb[0m
+[90mGET /img/img%20(111).jpg [32m200 [90m1ms - 10.74kb[0m
+[90mGET /img/img%20(112).jpg [32m200 [90m1ms - 4.48kb[0m
+[90mGET /img/img%20(8).jpg [32m200 [90m1ms - 3.62kb[0m
+[90mGET /img/img%20(7).jpg [32m200 [90m1ms - 4kb[0m
+[90mGET /catalogcreate [32m200 [90m17ms - 3.84kb[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m2ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m0ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m0ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m0ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /productfile [32m200 [90m12ms - 2.89kb[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m2ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m3ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m2ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /chat [32m200 [90m17ms - 2.78kb[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m0ms[0m
+[90mGET /stylesheets/chat.css [32m200 [90m1ms - 281[0m
+debug: served static content /socket.io.js
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/chat.js [32m200 [90m2ms - 1.26kb[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+debug: client authorized
+info: handshake authorized syKVVvPCICiX0_p1tXiM
+debug: setting request GET /socket.io/1/xhr-polling/syKVVvPCICiX0_p1tXiM?t=1424876416371
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client syKVVvPCICiX0_p1tXiM
+debug: xhr-polling received data packet 5:::{"name":"setname","args":["WebMatrix User"]}
+debug: broadcasting packet
+debug: setting request GET /socket.io/1/xhr-polling/syKVVvPCICiX0_p1tXiM?t=1424876416589
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"messages","args":[{"buffer":[]}]}
+debug: set close timeout for client syKVVvPCICiX0_p1tXiM
+debug: discarding transport
+debug: cleared close timeout for client syKVVvPCICiX0_p1tXiM
+debug: setting request GET /socket.io/1/xhr-polling/syKVVvPCICiX0_p1tXiM?t=1424876416798
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client syKVVvPCICiX0_p1tXiM
+[90mGET / [36m304 [90m9ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m0ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /catalog [36m304 [90m34ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m0ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m0ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(1).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(2).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(4).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(3).jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /img/img%20(5).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(8).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(6).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(7).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(9).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(10).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(11).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(13).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(12).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(14).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(15).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(16).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(17).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(19).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(18).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(20).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(21).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(22).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(23).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(25).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(24).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(26).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(27).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(28).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(29).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(30).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(31).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(32).jpg [36m304 [90m4ms[0m
+[90mGET /img/img%20(33).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(34).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(35).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(36).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(37).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(38).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(39).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(40).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(41).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(42).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(43).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(44).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(45).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(46).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(47).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(48).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(49).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(50).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(51).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(52).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(53).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(54).jpg [36m304 [90m3ms[0m
+[90mGET /img/img%20(55).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(56).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(58).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(57).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(59).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(60).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(61).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(62).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(63).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(64).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(65).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(66).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(67).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(68).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(69).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(70).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(71).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(72).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(73).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(74).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(75).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(76).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(78).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(77).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(79).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(81).jpg [36m304 [90m4ms[0m
+[90mGET /img/img%20(80).jpg [36m304 [90m3ms[0m
+[90mGET /img/img%20(82).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(83).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(84).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(85).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(86).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(87).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(88).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(89).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(90).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(91).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(92).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(93).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(94).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(95).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(96).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(97).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(98).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(99).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(100).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(101).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(102).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(103).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(104).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(105).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(106).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(107).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(108).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(109).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(110).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(111).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(112).jpg [36m304 [90m1ms[0m
+[90mGET /catalog [36m304 [90m34ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m2ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m3ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m0ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(4).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(1).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(3).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(2).jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /img/img%20(5).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(10).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(7).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(6).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(11).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(12).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(13).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(17).jpg [36m304 [90m4ms[0m
+[90mGET /img/img%20(14).jpg [36m304 [90m3ms[0m
+[90mGET /img/img%20(15).jpg [36m304 [90m3ms[0m
+[90mGET /img/img%20(16).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(18).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(19).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(20).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(22).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(23).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(21).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(24).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(25).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(26).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(30).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(27).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(28).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(29).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(31).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(32).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(34).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(33).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(35).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(36).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(37).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(38).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(39).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(42).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(41).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(40).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(44).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(43).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(45).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(48).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(46).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(47).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(49).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(50).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(51).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(52).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(53).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(54).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(55).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(56).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(57).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(59).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(58).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(60).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(61).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(62).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(63).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(64).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(66).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(65).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(67).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(68).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(69).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(70).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(72).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(71).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(73).jpg [36m304 [90m1ms[0m
+[90mGET /catalog [36m304 [90m35ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(2).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(1).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(3).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(4).jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /img/img%20(5).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(6).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(8).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(9).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(7).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(10).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(11).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(14).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(13).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(12).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(15).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(16).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(17).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(20).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(18).jpg [36m304 [90m13ms[0m
+[90mGET /img/img%20(19).jpg [36m304 [90m12ms[0m
+[90mGET /img/img%20(21).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(22).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(23).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(24).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(27).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(26).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(25).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(28).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(29).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(30).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(31).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(32).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(33).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(34).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(35).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(36).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(37).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(38).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(39).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(40).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(41).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(42).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(43).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(44).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(45).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(46).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(47).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(48).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(49).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(50).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(51).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(52).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(53).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(54).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(55).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(56).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(57).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(58).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(59).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(60).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(61).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(62).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(63).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(64).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(65).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(66).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(67).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(68).jpg [32m200 [90m3ms - 8.03kb[0m
+[90mGET /img/img%20(69).jpg [32m200 [90m2ms - 22.62kb[0m
+[90mGET /img/img%20(70).jpg [32m200 [90m2ms - 5.29kb[0m
+[90mGET /img/img%20(71).jpg [32m200 [90m1ms - 9kb[0m
+[90mGET /img/img%20(72).jpg [32m200 [90m1ms - 3.79kb[0m
+[90mGET /img/img%20(73).jpg [32m200 [90m1ms - 10.69kb[0m
+[90mGET /img/img%20(74).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(75).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(76).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(77).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(78).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(79).jpg [36m304 [90m1ms[0m
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client syKVVvPCICiX0_p1tXiM
+debug: xhr-polling closed due to exceeded duration
+debug: fired close timeout for client syKVVvPCICiX0_p1tXiM
+info: transport end (close timeout)
+debug: broadcasting packet
+debug: discarding transport
+[90mGET /cgi-bin/index.cgi [33m404 [90m2ms[0m
+[90mGET /cgi-bin/authLogin.cgi [33m404 [90m3ms[0m
+[90mGET / [32m200 [90m16ms - 3.15kb[0m
+[90mGET /stylesheets/styles_pajinate.css [32m200 [90m2ms - 1.7kb[0m
+[90mGET /javascripts/modernizr.js [32m200 [90m5ms - 48.97kb[0m
+[90mGET /js/bootstrap.min.js [32m200 [90m4ms - 34.62kb[0m
+[90mGET /stylesheets/mercasa_nav.css [32m200 [90m9ms - 1.19kb[0m
+[90mGET /images/mercasa_logo_50.jpg [32m200 [90m5ms - 2.73kb[0m
+[90mGET /js/jquery.pajinate.js [32m200 [90m3ms - 10.3kb[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [32m200 [90m460ms - 91.44kb[0m
+[90mGET /css/bootstrap.min.css [32m200 [90m1730ms - 114.4kb[0m
+[90mGET /images/facebook.png [32m200 [90m2ms - 529[0m
+[90mGET /images/twitter.png [32m200 [90m1ms - 488[0m
+[90mGET /apple-touch-icon-120x120-precomposed.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon-120x120.png [33m404 [90m2ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m2ms - 22.88kb[0m
+[90mGET /about [32m200 [90m11ms - 3.7kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m0ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m2ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /catalog [32m200 [90m25ms - 28.87kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m0ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m0ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(1).jpg [32m200 [90m2ms - 4.32kb[0m
+[90mGET /img/img%20(2).jpg [32m200 [90m1ms - 4.23kb[0m
+[90mGET /img/img%20(3).jpg [32m200 [90m1ms - 5.2kb[0m
+[90mGET /img/img%20(4).jpg [32m200 [90m1ms - 6.67kb[0m
+[90mGET /img/img%20(8).jpg [32m200 [90m2ms - 3.62kb[0m
+[90mGET /img/img%20(5).jpg [32m200 [90m2ms - 34.84kb[0m
+[90mGET /img/img%20(7).jpg [32m200 [90m1ms - 4kb[0m
+[90mGET /img/img%20(6).jpg [32m200 [90m1ms - 10.63kb[0m
+[90mGET /img/img%20(9).jpg [32m200 [90m1ms - 4.82kb[0m
+[90mGET /img/img%20(13).jpg [32m200 [90m1ms - 6.23kb[0m
+[90mGET /img/img%20(10).jpg [32m200 [90m2ms - 5.66kb[0m
+[90mGET /img/img%20(11).jpg [32m200 [90m1ms - 14.83kb[0m
+[90mGET /img/img%20(15).jpg [32m200 [90m1ms - 6.68kb[0m
+[90mGET /img/img%20(16).jpg [32m200 [90m1ms - 35.48kb[0m
+[90mGET /img/img%20(12).jpg [32m200 [90m1ms - 3.69kb[0m
+[90mGET /img/img%20(18).jpg [32m200 [90m2ms - 5.25kb[0m
+[90mGET /img/img%20(20).jpg [32m200 [90m2ms - 4.79kb[0m
+[90mGET /img/img%20(21).jpg [32m200 [90m3ms - 2.93kb[0m
+[90mGET /img/img%20(22).jpg [32m200 [90m3ms - 10.57kb[0m
+[90mGET /img/img%20(23).jpg [32m200 [90m1ms - 7.44kb[0m
+[90mGET /img/img%20(19).jpg [32m200 [90m2ms - 5.84kb[0m
+[90mGET /img/img%20(14).jpg [32m200 [90m2ms - 20.49kb[0m
+[90mGET /img/img%20(17).jpg [32m200 [90m2ms - 3.27kb[0m
+[90mGET /img/img%20(24).jpg [32m200 [90m2ms - 5.57kb[0m
+[90mGET /img/img%20(25).jpg [32m200 [90m2ms - 4.25kb[0m
+[90mGET /img/img%20(26).jpg [32m200 [90m3ms - 25.22kb[0m
+[90mGET /img/img%20(29).jpg [32m200 [90m2ms - 35.87kb[0m
+[90mGET /img/img%20(30).jpg [32m200 [90m1ms - 10.61kb[0m
+[90mGET /img/img%20(27).jpg [32m200 [90m1ms - 1.88kb[0m
+[90mGET /img/img%20(28).jpg [32m200 [90m1ms - 4.86kb[0m
+[90mGET /img/img%20(31).jpg [32m200 [90m2ms - 4.38kb[0m
+[90mGET /img/img%20(33).jpg [32m200 [90m1ms - 8.59kb[0m
+[90mGET /img/img%20(34).jpg [32m200 [90m3ms - 9.2kb[0m
+[90mGET /img/img%20(35).jpg [32m200 [90m3ms - 7.3kb[0m
+[90mGET /img/img%20(36).jpg [32m200 [90m3ms - 17.2kb[0m
+[90mGET /img/img%20(37).jpg [32m200 [90m2ms - 3.31kb[0m
+[90mGET /img/img%20(38).jpg [32m200 [90m1ms - 12.62kb[0m
+[90mGET /img/img%20(39).jpg [32m200 [90m1ms - 3.47kb[0m
+[90mGET /img/img%20(43).jpg [32m200 [90m1ms - 4.98kb[0m
+[90mGET /img/img%20(44).jpg [32m200 [90m1ms - 2.97kb[0m
+[90mGET /img/img%20(41).jpg [32m200 [90m4ms - 3.22kb[0m
+[90mGET /img/img%20(42).jpg [32m200 [90m3ms - 5.2kb[0m
+[90mGET /img/img%20(45).jpg [32m200 [90m1ms - 5.77kb[0m
+[90mGET /img/img%20(46).jpg [32m200 [90m4ms - 2.85kb[0m
+[90mGET /img/img%20(48).jpg [32m200 [90m2ms - 6.38kb[0m
+[90mGET /img/img%20(49).jpg [32m200 [90m1ms - 5.49kb[0m
+[90mGET /img/img%20(51).jpg [32m200 [90m2ms - 8.19kb[0m
+[90mGET /img/img%20(52).jpg [32m200 [90m1ms - 30.21kb[0m
+[90mGET /img/img%20(40).jpg [32m200 [90m2ms - 7.1kb[0m
+[90mGET /img/img%20(47).jpg [32m200 [90m1ms - 2.75kb[0m
+[90mGET /img/img%20(50).jpg [32m200 [90m3ms - 5.2kb[0m
+[90mGET /img/img%20(53).jpg [32m200 [90m2ms - 19.07kb[0m
+[90mGET /img/img%20(55).jpg [32m200 [90m2ms - 5.15kb[0m
+[90mGET /img/img%20(54).jpg [32m200 [90m2ms - 34.06kb[0m
+[90mGET /img/img%20(56).jpg [32m200 [90m2ms - 5.66kb[0m
+[90mGET /img/img%20(57).jpg [32m200 [90m2ms - 9.02kb[0m
+[90mGET /img/img%20(58).jpg [32m200 [90m1ms - 6.14kb[0m
+[90mGET /img/img%20(60).jpg [32m200 [90m1ms - 7.67kb[0m
+[90mGET /img/img%20(61).jpg [32m200 [90m1ms - 3.07kb[0m
+[90mGET /img/img%20(62).jpg [32m200 [90m4ms - 5.56kb[0m
+[90mGET /img/img%20(64).jpg [32m200 [90m2ms - 7.28kb[0m
+[90mGET /img/img%20(59).jpg [32m200 [90m1ms - 17.14kb[0m
+[90mGET /img/img%20(32).jpg [32m200 [90m1ms - 35.48kb[0m
+[90mGET /img/img%20(65).jpg [32m200 [90m2ms - 6.54kb[0m
+[90mGET /img/img%20(63).jpg [32m200 [90m2ms - 5.91kb[0m
+[90mGET /img/img%20(66).jpg [32m200 [90m1ms - 3.49kb[0m
+[90mGET /img/img%20(68).jpg [32m200 [90m1ms - 8.03kb[0m
+[90mGET /img/img%20(69).jpg [32m200 [90m1ms - 22.62kb[0m
+[90mGET /img/img%20(71).jpg [32m200 [90m1ms - 9kb[0m
+[90mGET /img/img%20(72).jpg [32m200 [90m1ms - 3.79kb[0m
+[90mGET /img/img%20(73).jpg [32m200 [90m1ms - 10.69kb[0m
+[90mGET /img/img%20(75).jpg [32m200 [90m1ms - 4.28kb[0m
+[90mGET /img/img%20(76).jpg [32m200 [90m2ms - 18.92kb[0m
+[90mGET /img/img%20(67).jpg [32m200 [90m1ms - 15.46kb[0m
+[90mGET /img/img%20(77).jpg [32m200 [90m10ms - 6.17kb[0m
+[90mGET /img/img%20(70).jpg [32m200 [90m1ms - 5.29kb[0m
+[90mGET /img/img%20(74).jpg [32m200 [90m1ms - 9.66kb[0m
+[90mGET /img/img%20(78).jpg [32m200 [90m1ms - 10.15kb[0m
+[90mGET /img/img%20(80).jpg [32m200 [90m1ms - 10.27kb[0m
+[90mGET /img/img%20(81).jpg [32m200 [90m2ms - 10.38kb[0m
+[90mGET /img/img%20(79).jpg [32m200 [90m1ms - 5.89kb[0m
+[90mGET /img/img%20(82).jpg [32m200 [90m1ms - 4.86kb[0m
+[90mGET /img/img%20(84).jpg [32m200 [90m1ms - 5.45kb[0m
+[90mGET /img/img%20(86).jpg [32m200 [90m1ms - 3.34kb[0m
+[90mGET /img/img%20(88).jpg [32m200 [90m1ms - 2.99kb[0m
+[90mGET /img/img%20(89).jpg [32m200 [90m2ms - 3.04kb[0m
+[90mGET /img/img%20(90).jpg [32m200 [90m1ms - 20.33kb[0m
+[90mGET /img/img%20(91).jpg [32m200 [90m1ms - 3.09kb[0m
+[90mGET /img/img%20(92).jpg [32m200 [90m1ms - 5.46kb[0m
+[90mGET /img/img%20(85).jpg [32m200 [90m1ms - 7.9kb[0m
+[90mGET /img/img%20(87).jpg [32m200 [90m1ms - 11.45kb[0m
+[90mGET /img/img%20(93).jpg [32m200 [90m2ms - 5kb[0m
+[90mGET /img/img%20(83).jpg [32m200 [90m1ms - 2.74kb[0m
+[90mGET /img/img%20(95).jpg [32m200 [90m2ms - 3.16kb[0m
+[90mGET /img/img%20(96).jpg [32m200 [90m1ms - 4.45kb[0m
+[90mGET /img/img%20(97).jpg [32m200 [90m1ms - 9.47kb[0m
+[90mGET /img/img%20(98).jpg [32m200 [90m1ms - 7.05kb[0m
+[90mGET /img/img%20(99).jpg [32m200 [90m2ms - 4.13kb[0m
+[90mGET /img/img%20(100).jpg [32m200 [90m2ms - 5.36kb[0m
+[90mGET /img/img%20(101).jpg [32m200 [90m3ms - 3.48kb[0m
+[90mGET /img/img%20(103).jpg [32m200 [90m2ms - 2.55kb[0m
+[90mGET /img/img%20(104).jpg [32m200 [90m2ms - 5.73kb[0m
+[90mGET /img/img%20(94).jpg [32m200 [90m2ms - 3.06kb[0m
+[90mGET /img/img%20(102).jpg [32m200 [90m2ms - 4.42kb[0m
+[90mGET /img/img%20(105).jpg [32m200 [90m1ms - 3.78kb[0m
+[90mGET /img/img%20(106).jpg [32m200 [90m2ms - 8.85kb[0m
+[90mGET /img/img%20(107).jpg [32m200 [90m1ms - 3.21kb[0m
+[90mGET /img/img%20(112).jpg [32m200 [90m3ms - 4.48kb[0m
+[90mGET /img/img%20(108).jpg [32m200 [90m3ms - 15.22kb[0m
+[90mGET /img/img%20(109).jpg [32m200 [90m4ms - 15.67kb[0m
+[90mGET /img/img%20(110).jpg [32m200 [90m2ms - 2.93kb[0m
+[90mGET /img/img%20(111).jpg [32m200 [90m1ms - 10.74kb[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m9ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m3ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m0ms[0m
+[90mGET /apple-touch-icon-120x120-precomposed.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon-120x120.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon.png [33m404 [90m1ms[0m
+[90mGET /apple-touch-icon-precomposed.png [33m404 [90m1ms[0m
+[90mGET / [32m200 [90m10ms - 3.15kb[0m
+[90mGET /stylesheets/mercasa_nav.css [32m200 [90m2ms - 1.19kb[0m
+[90mGET /javascripts/modernizr.js [32m200 [90m2ms - 48.97kb[0m
+[90mGET /stylesheets/styles_pajinate.css [32m200 [90m2ms - 1.7kb[0m
+[90mGET /js/jquery.pajinate.js [32m200 [90m3ms - 10.3kb[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [32m200 [90m1511ms - 91.44kb[0m
+[90mGET /js/bootstrap.min.js [32m200 [90m2ms - 34.62kb[0m
+[90mGET /css/bootstrap.min.css [32m200 [90m5880ms - 114.4kb[0m
+[90mGET /images/mercasa_logo_50.jpg [32m200 [90m1ms - 2.73kb[0m
+[90mGET /images/twitter.png [32m200 [90m2ms - 488[0m
+[90mGET /images/facebook.png [32m200 [90m2ms - 529[0m
+[90mGET /icon/mercasa_logo.ico [32m200 [90m1ms - 1.12kb[0m
+[90mGET /apple-touch-icon.png [33m404 [90m2ms[0m
+[90mGET / [36m304 [90m11ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /images/facebook.png [36m304 [90m1ms[0m
+[90mGET /images/twitter.png [36m304 [90m2ms[0m
+[90mGET /icon/mercasa_logo.ico [36m304 [90m2ms[0m
+[90mGET /catalog [32m200 [90m25ms - 28.87kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m0ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m2ms[0m
+[90mGET /img/img%20(1).jpg [32m200 [90m2ms - 4.32kb[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(2).jpg [32m200 [90m1ms - 4.23kb[0m
+[90mGET /img/img%20(3).jpg [32m200 [90m1ms - 5.2kb[0m
+[90mGET /img/img%20(4).jpg [32m200 [90m2ms - 6.67kb[0m
+[90mGET /img/img%20(5).jpg [32m200 [90m1ms - 34.84kb[0m
+[90mGET /img/img%20(6).jpg [32m200 [90m2ms - 10.63kb[0m
+[90mGET /img/img%20(7).jpg [32m200 [90m1ms - 4kb[0m
+[90mGET /img/img%20(8).jpg [32m200 [90m1ms - 3.62kb[0m
+[90mGET /img/img%20(9).jpg [32m200 [90m2ms - 4.82kb[0m
+[90mGET /img/img%20(10).jpg [32m200 [90m1ms - 5.66kb[0m
+[90mGET /img/img%20(11).jpg [32m200 [90m2ms - 14.83kb[0m
+[90mGET /img/img%20(12).jpg [32m200 [90m1ms - 3.69kb[0m
+[90mGET /img/img%20(13).jpg [32m200 [90m1ms - 6.23kb[0m
+[90mGET /img/img%20(14).jpg [32m200 [90m3ms - 20.49kb[0m
+[90mGET /img/img%20(15).jpg [32m200 [90m2ms - 6.68kb[0m
+[90mGET /img/img%20(16).jpg [32m200 [90m2ms - 35.48kb[0m
+[90mGET /img/img%20(17).jpg [32m200 [90m2ms - 3.27kb[0m
+[90mGET /img/img%20(18).jpg [32m200 [90m2ms - 5.25kb[0m
+[90mGET /img/img%20(19).jpg [32m200 [90m2ms - 5.84kb[0m
+[90mGET /img/img%20(20).jpg [32m200 [90m2ms - 4.79kb[0m
+[90mGET /img/img%20(21).jpg [32m200 [90m1ms - 2.93kb[0m
+[90mGET /img/img%20(22).jpg [32m200 [90m2ms - 10.57kb[0m
+[90mGET /img/img%20(23).jpg [32m200 [90m1ms - 7.44kb[0m
+[90mGET /img/img%20(24).jpg [32m200 [90m1ms - 5.57kb[0m
+[90mGET /img/img%20(25).jpg [32m200 [90m2ms - 4.25kb[0m
+[90mGET /img/img%20(26).jpg [32m200 [90m1ms - 25.22kb[0m
+[90mGET /img/img%20(27).jpg [32m200 [90m1ms - 1.88kb[0m
+[90mGET /img/img%20(28).jpg [32m200 [90m1ms - 4.86kb[0m
+[90mGET /img/img%20(29).jpg [32m200 [90m2ms - 35.87kb[0m
+[90mGET /img/img%20(30).jpg [32m200 [90m1ms - 10.61kb[0m
+[90mGET /img/img%20(31).jpg [32m200 [90m1ms - 4.38kb[0m
+[90mGET /img/img%20(32).jpg [32m200 [90m2ms - 35.48kb[0m
+[90mGET /img/img%20(33).jpg [32m200 [90m3ms - 8.59kb[0m
+[90mGET /img/img%20(34).jpg [32m200 [90m1ms - 9.2kb[0m
+[90mGET /img/img%20(35).jpg [32m200 [90m2ms - 7.3kb[0m
+[90mGET /img/img%20(36).jpg [32m200 [90m1ms - 17.2kb[0m
+[90mGET /img/img%20(37).jpg [32m200 [90m2ms - 3.31kb[0m
+[90mGET /img/img%20(38).jpg [32m200 [90m2ms - 12.62kb[0m
+[90mGET /img/img%20(39).jpg [32m200 [90m2ms - 3.47kb[0m
+[90mGET /img/img%20(40).jpg [32m200 [90m1ms - 7.1kb[0m
+[90mGET /img/img%20(41).jpg [32m200 [90m2ms - 3.22kb[0m
+[90mGET /img/img%20(42).jpg [32m200 [90m2ms - 5.2kb[0m
+[90mGET /img/img%20(43).jpg [32m200 [90m1ms - 4.98kb[0m
+[90mGET /img/img%20(44).jpg [32m200 [90m2ms - 2.97kb[0m
+[90mGET /img/img%20(45).jpg [32m200 [90m1ms - 5.77kb[0m
+[90mGET /img/img%20(46).jpg [32m200 [90m2ms - 2.85kb[0m
+[90mGET /img/img%20(47).jpg [32m200 [90m2ms - 2.75kb[0m
+[90mGET /img/img%20(48).jpg [32m200 [90m2ms - 6.38kb[0m
+[90mGET /img/img%20(49).jpg [32m200 [90m2ms - 5.49kb[0m
+[90mGET /img/img%20(50).jpg [32m200 [90m1ms - 5.2kb[0m
+[90mGET /img/img%20(51).jpg [32m200 [90m1ms - 8.19kb[0m
+[90mGET /img/img%20(52).jpg [32m200 [90m1ms - 30.21kb[0m
+[90mGET /img/img%20(53).jpg [32m200 [90m1ms - 19.07kb[0m
+[90mGET /img/img%20(54).jpg [32m200 [90m1ms - 34.06kb[0m
+[90mGET /img/img%20(55).jpg [32m200 [90m2ms - 5.15kb[0m
+[90mGET /img/img%20(56).jpg [32m200 [90m2ms - 5.66kb[0m
+[90mGET /img/img%20(57).jpg [32m200 [90m1ms - 9.02kb[0m
+[90mGET /img/img%20(58).jpg [32m200 [90m1ms - 6.14kb[0m
+[90mGET /img/img%20(59).jpg [32m200 [90m2ms - 17.14kb[0m
+[90mGET /img/img%20(60).jpg [32m200 [90m1ms - 7.67kb[0m
+[90mGET /img/img%20(61).jpg [32m200 [90m2ms - 3.07kb[0m
+[90mGET /img/img%20(62).jpg [32m200 [90m2ms - 5.56kb[0m
+[90mGET /img/img%20(63).jpg [32m200 [90m1ms - 5.91kb[0m
+[90mGET /img/img%20(64).jpg [32m200 [90m2ms - 7.28kb[0m
+[90mGET /img/img%20(65).jpg [32m200 [90m1ms - 6.54kb[0m
+[90mGET /img/img%20(66).jpg [32m200 [90m2ms - 3.49kb[0m
+[90mGET /img/img%20(67).jpg [32m200 [90m1ms - 15.46kb[0m
+[90mGET /img/img%20(68).jpg [32m200 [90m2ms - 8.03kb[0m
+[90mGET /img/img%20(69).jpg [32m200 [90m2ms - 22.62kb[0m
+[90mGET /img/img%20(70).jpg [32m200 [90m1ms - 5.29kb[0m
+[90mGET /img/img%20(71).jpg [32m200 [90m1ms - 9kb[0m
+[90mGET /img/img%20(72).jpg [32m200 [90m2ms - 3.79kb[0m
+[90mGET /img/img%20(73).jpg [32m200 [90m1ms - 10.69kb[0m
+[90mGET /img/img%20(74).jpg [32m200 [90m2ms - 9.66kb[0m
+[90mGET /img/img%20(76).jpg [32m200 [90m1ms - 18.92kb[0m
+[90mGET /img/img%20(77).jpg [32m200 [90m1ms - 6.17kb[0m
+[90mGET /img/img%20(78).jpg [32m200 [90m1ms - 10.15kb[0m
+[90mGET /img/img%20(79).jpg [32m200 [90m1ms - 5.89kb[0m
+[90mGET /img/img%20(80).jpg [32m200 [90m2ms - 10.27kb[0m
+[90mGET /img/img%20(81).jpg [32m200 [90m1ms - 10.38kb[0m
+[90mGET /img/img%20(82).jpg [32m200 [90m1ms - 4.86kb[0m
+[90mGET /img/img%20(83).jpg [32m200 [90m2ms - 2.74kb[0m
+[90mGET /img/img%20(84).jpg [32m200 [90m1ms - 5.45kb[0m
+[90mGET /img/img%20(85).jpg [32m200 [90m2ms - 7.9kb[0m
+[90mGET /img/img%20(86).jpg [32m200 [90m2ms - 3.34kb[0m
+[90mGET /img/img%20(87).jpg [32m200 [90m1ms - 11.45kb[0m
+[90mGET /img/img%20(88).jpg [32m200 [90m2ms - 2.99kb[0m
+[90mGET /img/img%20(89).jpg [32m200 [90m1ms - 3.04kb[0m
+[90mGET /img/img%20(91).jpg [32m200 [90m1ms - 3.09kb[0m
+[90mGET /img/img%20(92).jpg [32m200 [90m2ms - 5.46kb[0m
+[90mGET /img/img%20(93).jpg [32m200 [90m2ms - 5kb[0m
+[90mGET /img/img%20(94).jpg [32m200 [90m1ms - 3.06kb[0m
+[90mGET /img/img%20(95).jpg [32m200 [90m2ms - 3.16kb[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /img/img%20(96).jpg [32m200 [90m2ms - 4.45kb[0m
+[90mGET /img/img%20(97).jpg [32m200 [90m2ms - 9.47kb[0m
+[90mGET /img/img%20(98).jpg [32m200 [90m2ms - 7.05kb[0m
+[90mGET /img/img%20(99).jpg [32m200 [90m2ms - 4.13kb[0m
+[90mGET /img/img%20(100).jpg [32m200 [90m2ms - 5.36kb[0m
+[90mGET /img/img%20(101).jpg [32m200 [90m2ms - 3.48kb[0m
+[90mGET /img/img%20(102).jpg [32m200 [90m3ms - 4.42kb[0m
+[90mGET /img/img%20(103).jpg [32m200 [90m2ms - 2.55kb[0m
+[90mGET /img/img%20(75).jpg [32m200 [90m1ms - 4.28kb[0m
+[90mGET /img/img%20(104).jpg [32m200 [90m2ms - 5.73kb[0m
+[90mGET /img/img%20(105).jpg [32m200 [90m2ms - 3.78kb[0m
+[90mGET /img/img%20(106).jpg [32m200 [90m1ms - 8.85kb[0m
+[90mGET /img/img%20(107).jpg [32m200 [90m1ms - 3.21kb[0m
+[90mGET /img/img%20(108).jpg [32m200 [90m3ms - 15.22kb[0m
+[90mGET /img/img%20(109).jpg [32m200 [90m2ms - 15.67kb[0m
+[90mGET /img/img%20(90).jpg [32m200 [90m2ms - 20.33kb[0m
+[90mGET /img/img%20(110).jpg [32m200 [90m2ms - 2.93kb[0m
+[90mGET /img/img%20(111).jpg [32m200 [90m1ms - 10.74kb[0m
+[90mGET /img/img%20(112).jpg [32m200 [90m3ms - 4.48kb[0m
+[90mGET /images/facebook.png [36m304 [90m1ms[0m
+[90mGET /images/twitter.png [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m4ms - 22.88kb[0m
+[90mGET /about [32m200 [90m9ms - 3.7kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m2ms[0m
+[90mGET /images/facebook.png [36m304 [90m1ms[0m
+[90mGET /images/twitter.png [36m304 [90m1ms[0m
+[90mGET /catalog [36m304 [90m24ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /img/img%20(1).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(2).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(3).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(4).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(5).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(6).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(7).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(8).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(9).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(10).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(11).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(12).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(13).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(14).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(15).jpg [36m304 [90m3ms[0m
+[90mGET /img/img%20(16).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(17).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(18).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(19).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(20).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(21).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(22).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(23).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(24).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(25).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(26).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(27).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(28).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(29).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(30).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(31).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(32).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(33).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(34).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(35).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(36).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(37).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(38).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(39).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(40).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(41).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(42).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(43).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(44).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(45).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(46).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(47).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(48).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(49).jpg [36m304 [90m4ms[0m
+[90mGET /img/img%20(50).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(52).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(51).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(53).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(54).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(55).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(56).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(57).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(58).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(59).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(60).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(61).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(62).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(63).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(64).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(65).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(66).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(67).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(68).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(69).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(70).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(71).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(72).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(73).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(74).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(75).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(76).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(77).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(78).jpg [36m304 [90m13ms[0m
+[90mGET /img/img%20(79).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(80).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(81).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(82).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(83).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(84).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(85).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(86).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(87).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(88).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(89).jpg [36m304 [90m2ms[0m
+[90mGET /img/img%20(90).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(91).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(92).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(93).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(94).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(95).jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(96).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(97).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(98).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(99).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(100).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(101).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(102).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(103).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(104).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(105).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(106).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(107).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(108).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(109).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(110).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(111).jpg [36m304 [90m1ms[0m
+[90mGET /img/img%20(112).jpg [36m304 [90m1ms[0m
+[90mGET /images/facebook.png [36m304 [90m0ms[0m
+[90mGET /images/twitter.png [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET / [32m200 [90m10ms - 3.15kb[0m
+[90mGET /css/bootstrap.min.css [32m200 [90m3ms - 114.4kb[0m
+[90mGET /stylesheets/mercasa_nav.css [32m200 [90m1ms - 1.19kb[0m
+[90mGET /stylesheets/styles_pajinate.css [32m200 [90m1ms - 1.7kb[0m
+[90mGET /js/jquery.pajinate.js [32m200 [90m1ms - 10.3kb[0m
+[90mGET /javascripts/modernizr.js [32m200 [90m2ms - 48.97kb[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [32m200 [90m2ms - 91.44kb[0m
+[90mGET /js/bootstrap.min.js [32m200 [90m3ms - 34.62kb[0m
+[90mGET /images/mercasa_logo_50.jpg [32m200 [90m3ms - 2.73kb[0m
+[90mGET /images/facebook.png [32m200 [90m4ms - 529[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [32m200 [90m3ms - 17.61kb[0m
+[90mGET /images/twitter.png [32m200 [90m3ms - 488[0m
+[90mGET /icon/mercasa_logo.ico [32m200 [90m1ms - 1.12kb[0m
+[90mGET /icon/mercasa_logo.ico [36m304 [90m1ms[0m
+[90mGET /catalog [32m200 [90m24ms - 28.87kb[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m3ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m2ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m0ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m0ms[0m
+[90mGET /img/img%20(2).jpg [32m200 [90m4ms - 4.23kb[0m
+[90mGET /img/img%20(1).jpg [32m200 [90m3ms - 4.32kb[0m
+[90mGET /img/img%20(3).jpg [32m200 [90m5ms - 5.2kb[0m
+[90mGET /img/img%20(4).jpg [32m200 [90m4ms - 6.67kb[0m
+[90mGET /img/img%20(5).jpg [32m200 [90m3ms - 34.84kb[0m
+[90mGET /img/img%20(6).jpg [32m200 [90m2ms - 10.63kb[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /img/img%20(11).jpg [32m200 [90m3ms - 14.83kb[0m
+[90mGET /img/img%20(10).jpg [32m200 [90m2ms - 5.66kb[0m
+[90mGET /img/img%20(13).jpg [32m200 [90m2ms - 6.23kb[0m
+[90mGET /img/img%20(12).jpg [32m200 [90m2ms - 3.69kb[0m
+[90mGET /img/img%20(14).jpg [32m200 [90m2ms - 20.49kb[0m
+[90mGET /img/img%20(15).jpg [32m200 [90m1ms - 6.68kb[0m
+[90mGET /img/img%20(16).jpg [32m200 [90m2ms - 35.48kb[0m
+[90mGET /img/img%20(17).jpg [32m200 [90m1ms - 3.27kb[0m
+[90mGET /img/img%20(18).jpg [32m200 [90m1ms - 5.25kb[0m
+[90mGET /img/img%20(19).jpg [32m200 [90m2ms - 5.84kb[0m
+[90mGET /img/img%20(21).jpg [32m200 [90m1ms - 2.93kb[0m
+[90mGET /img/img%20(20).jpg [32m200 [90m1ms - 4.79kb[0m
+[90mGET /img/img%20(22).jpg [32m200 [90m1ms - 10.57kb[0m
+[90mGET /img/img%20(23).jpg [32m200 [90m1ms - 7.44kb[0m
+[90mGET /img/img%20(24).jpg [32m200 [90m1ms - 5.57kb[0m
+[90mGET /img/img%20(26).jpg [32m200 [90m2ms - 25.22kb[0m
+[90mGET /img/img%20(25).jpg [32m200 [90m2ms - 4.25kb[0m
+[90mGET /img/img%20(27).jpg [32m200 [90m1ms - 1.88kb[0m
+[90mGET /img/img%20(28).jpg [32m200 [90m1ms - 4.86kb[0m
+[90mGET /img/img%20(29).jpg [32m200 [90m4ms - 35.87kb[0m
+[90mGET /img/img%20(30).jpg [32m200 [90m3ms - 10.61kb[0m
+[90mGET /img/img%20(31).jpg [32m200 [90m3ms - 4.38kb[0m
+[90mGET /img/img%20(32).jpg [32m200 [90m1ms - 35.48kb[0m
+[90mGET /img/img%20(33).jpg [32m200 [90m1ms - 8.59kb[0m
+[90mGET /img/img%20(34).jpg [32m200 [90m1ms - 9.2kb[0m
+[90mGET /img/img%20(36).jpg [32m200 [90m2ms - 17.2kb[0m
+[90mGET /img/img%20(35).jpg [32m200 [90m1ms - 7.3kb[0m
+[90mGET /img/img%20(37).jpg [32m200 [90m1ms - 3.31kb[0m
+[90mGET /img/img%20(38).jpg [32m200 [90m2ms - 12.62kb[0m
+[90mGET /img/img%20(39).jpg [32m200 [90m2ms - 3.47kb[0m
+[90mGET /img/img%20(40).jpg [32m200 [90m1ms - 7.1kb[0m
+[90mGET /img/img%20(41).jpg [32m200 [90m1ms - 3.22kb[0m
+[90mGET /img/img%20(42).jpg [32m200 [90m2ms - 5.2kb[0m
+[90mGET /img/img%20(43).jpg [32m200 [90m1ms - 4.98kb[0m
+[90mGET /img/img%20(44).jpg [32m200 [90m1ms - 2.97kb[0m
+[90mGET /img/img%20(45).jpg [32m200 [90m2ms - 5.77kb[0m
+[90mGET /img/img%20(46).jpg [32m200 [90m1ms - 2.85kb[0m
+[90mGET /img/img%20(47).jpg [32m200 [90m1ms - 2.75kb[0m
+[90mGET /img/img%20(48).jpg [32m200 [90m4ms - 6.38kb[0m
+[90mGET /img/img%20(51).jpg [32m200 [90m4ms - 8.19kb[0m
+[90mGET /img/img%20(49).jpg [32m200 [90m3ms - 5.49kb[0m
+[90mGET /img/img%20(50).jpg [32m200 [90m3ms - 5.2kb[0m
+[90mGET /img/img%20(52).jpg [32m200 [90m2ms - 30.21kb[0m
+[90mGET /img/img%20(55).jpg [32m200 [90m4ms - 5.15kb[0m
+[90mGET /img/img%20(53).jpg [32m200 [90m2ms - 19.07kb[0m
+[90mGET /img/img%20(54).jpg [32m200 [90m2ms - 34.06kb[0m
+[90mGET /img/img%20(56).jpg [32m200 [90m2ms - 5.66kb[0m
+[90mGET /img/img%20(57).jpg [32m200 [90m1ms - 9.02kb[0m
+[90mGET /img/img%20(58).jpg [32m200 [90m1ms - 6.14kb[0m
+[90mGET /img/img%20(61).jpg [32m200 [90m3ms - 3.07kb[0m
+[90mGET /img/img%20(60).jpg [32m200 [90m3ms - 7.67kb[0m
+[90mGET /img/img%20(59).jpg [32m200 [90m3ms - 17.14kb[0m
+[90mGET /img/img%20(63).jpg [32m200 [90m2ms - 5.91kb[0m
+[90mGET /img/img%20(62).jpg [32m200 [90m1ms - 5.56kb[0m
+[90mGET /img/img%20(64).jpg [32m200 [90m1ms - 7.28kb[0m
+[90mGET /img/img%20(65).jpg [32m200 [90m2ms - 6.54kb[0m
+[90mGET /img/img%20(66).jpg [32m200 [90m1ms - 3.49kb[0m
+[90mGET /img/img%20(67).jpg [32m200 [90m1ms - 15.46kb[0m
+[90mGET /img/img%20(69).jpg [32m200 [90m2ms - 22.62kb[0m
+[90mGET /img/img%20(68).jpg [32m200 [90m1ms - 8.03kb[0m
+[90mGET /img/img%20(70).jpg [32m200 [90m1ms - 5.29kb[0m
+[90mGET /img/img%20(71).jpg [32m200 [90m1ms - 9kb[0m
+[90mGET /img/img%20(72).jpg [32m200 [90m2ms - 3.79kb[0m
+[90mGET /img/img%20(73).jpg [32m200 [90m1ms - 10.69kb[0m
+[90mGET /img/img%20(75).jpg [32m200 [90m2ms - 4.28kb[0m
+[90mGET /img/img%20(74).jpg [32m200 [90m1ms - 9.66kb[0m
+[90mGET /img/img%20(76).jpg [32m200 [90m1ms - 18.92kb[0m
+[90mGET /img/img%20(78).jpg [32m200 [90m3ms - 10.15kb[0m
+[90mGET /img/img%20(77).jpg [32m200 [90m2ms - 6.17kb[0m
+[90mGET /img/img%20(79).jpg [32m200 [90m1ms - 5.89kb[0m
+[90mGET /img/img%20(80).jpg [32m200 [90m2ms - 10.27kb[0m
+[90mGET /img/img%20(81).jpg [32m200 [90m2ms - 10.38kb[0m
+[90mGET /img/img%20(82).jpg [32m200 [90m1ms - 4.86kb[0m
+[90mGET /img/img%20(83).jpg [32m200 [90m2ms - 2.74kb[0m
+[90mGET /img/img%20(84).jpg [32m200 [90m1ms - 5.45kb[0m
+[90mGET /img/img%20(85).jpg [32m200 [90m1ms - 7.9kb[0m
+[90mGET /img/img%20(86).jpg [32m200 [90m1ms - 3.34kb[0m
+[90mGET /img/img%20(87).jpg [32m200 [90m1ms - 11.45kb[0m
+[90mGET /img/img%20(88).jpg [32m200 [90m1ms - 2.99kb[0m
+[90mGET /img/img%20(91).jpg [32m200 [90m3ms - 3.09kb[0m
+[90mGET /img/img%20(89).jpg [32m200 [90m2ms - 3.04kb[0m
+[90mGET /img/img%20(90).jpg [32m200 [90m2ms - 20.33kb[0m
+[90mGET /img/img%20(92).jpg [32m200 [90m2ms - 5.46kb[0m
+[90mGET /img/img%20(93).jpg [32m200 [90m1ms - 5kb[0m
+[90mGET /img/img%20(94).jpg [32m200 [90m2ms - 3.06kb[0m
+[90mGET /img/img%20(96).jpg [32m200 [90m6ms - 4.45kb[0m
+[90mGET /img/img%20(95).jpg [32m200 [90m5ms - 3.16kb[0m
+[90mGET /img/img%20(97).jpg [32m200 [90m5ms - 9.47kb[0m
+[90mGET /img/img%20(98).jpg [32m200 [90m1ms - 7.05kb[0m
+[90mGET /img/img%20(99).jpg [32m200 [90m11ms - 4.13kb[0m
+[90mGET /img/img%20(100).jpg [32m200 [90m1ms - 5.36kb[0m
+[90mGET /img/img%20(101).jpg [32m200 [90m1ms - 3.48kb[0m
+[90mGET /img/img%20(9).jpg [32m200 [90m3ms - 4.82kb[0m
+[90mGET /img/img%20(8).jpg [32m200 [90m2ms - 3.62kb[0m
+[90mGET /img/img%20(7).jpg [32m200 [90m2ms - 4kb[0m
+[90mGET /img/img%20(102).jpg [32m200 [90m1ms - 4.42kb[0m
+[90mGET /img/img%20(103).jpg [32m200 [90m2ms - 2.55kb[0m
+[90mGET /img/img%20(104).jpg [32m200 [90m2ms - 5.73kb[0m
+[90mGET /img/img%20(105).jpg [32m200 [90m1ms - 3.78kb[0m
+[90mGET /img/img%20(106).jpg [32m200 [90m1ms - 8.85kb[0m
+[90mGET /img/img%20(107).jpg [32m200 [90m1ms - 3.21kb[0m
+[90mGET /img/img%20(108).jpg [32m200 [90m1ms - 15.22kb[0m
+[90mGET /img/img%20(109).jpg [32m200 [90m2ms - 15.67kb[0m
+[90mGET /img/img%20(110).jpg [32m200 [90m2ms - 2.93kb[0m
+[90mGET /img/img%20(111).jpg [32m200 [90m2ms - 10.74kb[0m
+[90mGET /img/img%20(112).jpg [32m200 [90m2ms - 4.48kb[0m
+[90mGET /chat [32m200 [90m15ms - 2.78kb[0m
+debug: served static content /socket.io.js
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m5ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m5ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /javascripts/chat.js [32m200 [90m3ms - 1.26kb[0m
+[90mGET /stylesheets/chat.css [32m200 [90m5ms - 281[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m2ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m0ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+debug: client authorized
+info: handshake authorized W1bK50BgqZvXXq1ftXiN
+debug: setting request GET /socket.io/1/xhr-polling/W1bK50BgqZvXXq1ftXiN?t=1424906979824
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client W1bK50BgqZvXXq1ftXiN
+debug: xhr-polling received data packet 5:::{"name":"setname","args":["WebMatrix User"]}
+debug: broadcasting packet
+debug: setting request GET /socket.io/1/xhr-polling/W1bK50BgqZvXXq1ftXiN?t=1424906979880
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"messages","args":[{"buffer":[]}]}
+debug: set close timeout for client W1bK50BgqZvXXq1ftXiN
+debug: discarding transport
+debug: cleared close timeout for client W1bK50BgqZvXXq1ftXiN
+debug: setting request GET /socket.io/1/xhr-polling/W1bK50BgqZvXXq1ftXiN?t=1424906979939
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client W1bK50BgqZvXXq1ftXiN
+[90mGET /about [32m200 [90m11ms - 3.7kb[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m2ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m5ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m4ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m3ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET /productfile [32m200 [90m16ms - 2.89kb[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m4ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m2ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m29ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m3ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m2ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m3ms[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff2 [36m304 [90m0ms[0m
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client W1bK50BgqZvXXq1ftXiN
+debug: xhr-polling closed due to exceeded duration
+debug: fired close timeout for client W1bK50BgqZvXXq1ftXiN
+info: transport end (close timeout)
+debug: broadcasting packet
+debug: discarding transport
+[90mGET / [32m200 [90m12ms - 3.15kb[0m
+[90mGET /css/bootstrap.min.css [32m200 [90m3ms - 114.4kb[0m
+[90mGET /stylesheets/mercasa_nav.css [32m200 [90m1ms - 1.19kb[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [32m200 [90m2ms - 91.44kb[0m
+[90mGET /javascripts/modernizr.js [32m200 [90m2ms - 48.97kb[0m
+[90mGET /stylesheets/styles_pajinate.css [32m200 [90m1ms - 1.7kb[0m
+[90mGET /js/jquery.pajinate.js [32m200 [90m1ms - 10.3kb[0m
+[90mGET /images/mercasa_logo_50.jpg [32m200 [90m2ms - 2.73kb[0m
+[90mGET /js/bootstrap.min.js [32m200 [90m2ms - 34.62kb[0m
+[90mGET /images/facebook.png [32m200 [90m1ms - 529[0m
+[90mGET /images/twitter.png [32m200 [90m1ms - 488[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff [32m200 [90m2ms - 22.88kb[0m
+[90mGET /chat [32m200 [90m8ms - 2.78kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m1ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m1ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m2ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m0ms[0m
+[90mGET /stylesheets/chat.css [32m200 [90m2ms - 281[0m
+debug: served static content /socket.io.js
+[90mGET /javascripts/chat.js [32m200 [90m2ms - 1.26kb[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m1ms[0m
+debug: client authorized
+info: handshake authorized PCoe9OoM5_EL_BAztXiO
+[90mGET /images/facebook.png [36m304 [90m1ms[0m
+[90mGET /images/twitter.png [36m304 [90m1ms[0m
+debug: setting request GET /socket.io/1/xhr-polling/PCoe9OoM5_EL_BAztXiO?t=1424908697492
+debug: setting poll timeout
+debug: client authorized for 
+debug: clearing poll timeout
+debug: xhr-polling writing 1::
+debug: set close timeout for client PCoe9OoM5_EL_BAztXiO
+debug: xhr-polling received data packet 5:::{"name":"setname","args":["WebMatrix User"]}
+debug: broadcasting packet
+debug: setting request GET /socket.io/1/xhr-polling/PCoe9OoM5_EL_BAztXiO?t=1424908697841
+debug: setting poll timeout
+debug: clearing poll timeout
+debug: xhr-polling writing 5:::{"name":"messages","args":[{"buffer":[]}]}
+debug: set close timeout for client PCoe9OoM5_EL_BAztXiO
+debug: discarding transport
+debug: cleared close timeout for client PCoe9OoM5_EL_BAztXiO
+debug: setting request GET /socket.io/1/xhr-polling/PCoe9OoM5_EL_BAztXiO?t=1424908698111
+debug: setting poll timeout
+debug: discarding transport
+debug: cleared close timeout for client PCoe9OoM5_EL_BAztXiO
+[90mGET /fonts/glyphicons-halflings-regular.woff [36m304 [90m2ms[0m
+[90mGET /about [32m200 [90m9ms - 3.7kb[0m
+[90mGET /css/bootstrap.min.css [36m304 [90m1ms[0m
+[90mGET /stylesheets/mercasa_nav.css [36m304 [90m2ms[0m
+[90mGET /javascripts/jquery-1.8.3.min.js [36m304 [90m0ms[0m
+[90mGET /javascripts/modernizr.js [36m304 [90m1ms[0m
+[90mGET /stylesheets/styles_pajinate.css [36m304 [90m1ms[0m
+[90mGET /js/jquery.pajinate.js [36m304 [90m1ms[0m
+[90mGET /images/mercasa_logo_50.jpg [36m304 [90m1ms[0m
+[90mGET /js/bootstrap.min.js [36m304 [90m2ms[0m
+[90mGET /images/facebook.png [36m304 [90m1ms[0m
+[90mGET /images/twitter.png [36m304 [90m1ms[0m
+[90mGET /fonts/glyphicons-halflings-regular.woff [36m304 [90m1ms[0m
+debug: clearing poll timeout
+debug: xhr-polling writing 8::
+debug: set close timeout for client PCoe9OoM5_EL_BAztXiO
+debug: xhr-polling closed due to exceeded duration
+debug: fired close timeout for client PCoe9OoM5_EL_BAztXiO
+info: transport end (close timeout)
+debug: broadcasting packet
+debug: discarding transport
+[90mGET http://pl.wikipedia.org/wiki/Special:Search?search=&go=Go [33m404 [90m2ms[0m
+[90mGET http://ec2-72-44-41-82.compute-1.amazonaws.com/proxyres.php [33m404 [90m2ms[0m
+[90mGET /manager/html [33m404 [90m2ms[0m
+[90mGET / [32m200 [90m16ms - 3.1kb[0m
